@@ -1,4 +1,4 @@
-# PortfolioProjects
+# Global COVID Death Statistics
 
 In this project, I looked at a large data set of global COVID deaths vs. vaccinations.
 
