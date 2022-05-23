@@ -6,5 +6,5 @@ I got the data sets from Our World in Data (https://ourworldindata.org/covid-dea
 
 I created a Common Table Expression (CTE), Temp Table, and View in SQL. 
 
-Then I created a dashboard from the data in Tableau (https://public.tableau.com/app/profile/christina.thai8531/viz/CovidDashboard_16440068109660/Dashboard1).
+Then I created a dashboard from the selected data in Tableau (https://public.tableau.com/app/profile/christina.thai8531/viz/CovidDashboard_16440068109660/Dashboard1).
 
